@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(38, 252, 252, 0.274);
+}
+.title {
+    text-align: center;
+    color: rgb(165, 29, 165);
+    font-weight: 900;
+    font-size: 40px; ;
+}
+.list {
+    font-size: larger;
+    
+}
